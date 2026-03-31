@@ -2,7 +2,8 @@
 
 A hardware arcade game built from three ICs — no microcontroller, no code. A bouncing LED tests your reaction time: stop it on the centre light to score.
 
-![TinkerCAD Circuit](tinkercad-screenshot.png)
+![TinkerCAD Circuit](<img width="1294" height="561" alt="image" src="https://github.com/user-attachments/assets/f6fcd297-5b6e-4df3-907b-e988a4625d15" />
+)
 > 🔗 [View on TinkerCAD](https://www.tinkercad.com/your-link-here) · 🎥 [Demo Video](https://your-video-link-here)
 
 ---
