@@ -30,7 +30,7 @@ A **555 timer** generates a ~7 Hz clock that drives a **4017 decade counter**, w
 | Position | Points |
 |---|---|
 | Centre green LED | 10 pts |
-| Adjacent blue LEDs | 5 pts |
+| Adjacent yellow LEDs | 5 pts |
 | Outer red LEDs | 0 pts |
 
 First to 50 wins. Swap R1/R2 values to adjust difficulty.
